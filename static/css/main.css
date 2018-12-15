@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+html, body, #map {
+    height: 100%;
+    width: 100%;
+}
+
+.download-control {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    font-size: large;
+    text-align: center;
+}
+
+.download-control:hover {
+    background-color: #f4f4f4;
+    cursor: pointer;
+}

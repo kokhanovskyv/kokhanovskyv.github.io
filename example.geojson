@@ -1,0 +1,16 @@
+{ 
+    "type": "Feature",
+    "geometry": {
+    "type": "Polygon",
+    "coordinates": [[
+        [-180.0, 10.0], [20.0, 90.0], [180.0, -5.0], [-30.0, -90.0]
+        ]]
+    },
+"style": {
+				"color": "#CC0000",
+				"weight": 2,
+				"fill-opacity": 0.6,
+				"opacity": 1,
+				"dashArray": "3, 5"
+			}
+}
